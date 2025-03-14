@@ -1,3 +1,4 @@
 - Menentukan kebutuhan user
--Membuat database
+-Membuat dashboard
 - Membuat halaman login
+- Membuat koneksi ke database
